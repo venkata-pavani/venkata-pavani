@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&layout=compact)](https://github.com/venkata-pavani)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://www.yushi.dev/)
+
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pavani | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/my_sketches26/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pavani | Instagram" width="21px"/></a>
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
