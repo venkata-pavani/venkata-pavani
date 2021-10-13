@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/pavani-nrusimhadevara/"><img align="left" src="linkedin.jpg" alt="Pavani | LinkedIn" width="51px"/></a>
 <a href="https://www.instagram.com/my_sketches26/"><img align="left" src="insta.jpg" alt="Pavani | Instagram" width="51px"/></a>
+<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" class="fa fa-linkedin"></a>
 </br> </br>
 
 
