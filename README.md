@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 -->
 ![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
 
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&layout=compact)](https://github.com/venkata-pavani)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://www.yushi.dev/)
