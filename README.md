@@ -30,7 +30,16 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/pavani-nrusimhadevara/"><img align="left" src="linkedin.jpg" alt="Pavani | LinkedIn" width="51px"/></a></br>
 <a href="https://www.instagram.com/my_sketches26/"><img align="left" src="insta.jpg" alt="Pavani | Instagram" width="51px"/></a>
-
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<div class="leftside">
+  <ul class="socialmediaicons">
+    <li><a href="https://www.facebook.com/EnUnChasquido" target="_blank"><i class="fa 
+fa-facebook"></i></a></li>
+    <li><a href="https://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.youtube.com" target="_blank"><i class="fa fa-youtube"></i></li>
+    </ul>
+  </div>
 </br> </br>
 
 
