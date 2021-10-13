@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/venkata-pavani/venkata-pavani/blob/768a1405e6e92b06c54dab4a89dbd5b064279c11/Green%20and%20Cream%20Brushstroke%20Assistant%20Professor%20LinkedIn%20Banner.png
-
+![image](https://user-images.githubusercontent.com/12963112/137168486-5408f4fd-bf99-459f-9397-29a4235f722c.png)
