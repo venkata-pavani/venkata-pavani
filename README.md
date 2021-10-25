@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/my_sketches26/"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a>
 <a href="venkatapavani2017@gmail.com"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 <a href="https://www.quora.com/profile/Pavani-N-40"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
-<a href="https://www.hckerrank.com/venkatapavani201"><img align="left" src="hackerrank.png" alt="Pavani | Quora" width="31px"/></a>
+<a href="https://www.hckerrank.com/venkatapavani201"><img align="left" src="hackerrank.jpg" alt="Pavani | Quora" width="31px"/></a>
 
 </br> </br>
 
