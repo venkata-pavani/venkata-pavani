@@ -20,8 +20,8 @@
 
 ## 🔭 I’m currently working on ..
 
-◼️ Building solutions to complex business problems and enable organization to meet thier end-users through data driven decision making.
-◼️ Implementing architectures for analytical processing , ad-hoc query reporting and data mining.
+◼️ Building solutions to complex business problems and enable organization to meet thier end-users through data driven decision making. <br>
+◼️ Implementing architectures for analytical processing , ad-hoc query reporting and data mining. <br>
 ◼️ Technically driven in processing large scale problems and delivering it to the end users in a most-presentable format through dashboards and reports 
 
 
@@ -31,9 +31,9 @@ Any real-world projects related to data science or machine learning in general a
 
 
 ## ⚡ In my free time ...
-◼️ Sketch (check my instagram)
-◼️ Read Books, Novels, Articles
-◼️ Singing (its been a while though ..)
+◼️ Sketch (check my instagram) <br>
+◼️ Read Books, Novels, Articles <br>
+◼️ Singing (its been a while though ..) <br>
 ◼️ Write (check my Quora)
  
 ## ⚡ Fun fact: ...
