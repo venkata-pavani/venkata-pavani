@@ -4,7 +4,7 @@
 
 **venkata-pavani/venkata-pavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: She,Her(s)
 
 ## 🔭 I’m currently working on ..
 
@@ -12,20 +12,18 @@ Here are some ideas to get you started:
 ◼️ Implementing architectures for analytical processing , ad-hoc query reporting and data mining.
 ◼️ Technically driven in processing large scale problems and delivering it to the end users in a most-presentable format through dashboards and reports 
 
--🌱 I’m currently learning ...
+
 ## 👯 I’m looking to collaborate on ...
 
-Any real-world projects realted to data science or machine learning in general as I do have some experience in data science domain. Reach out to me on my email
+Any real-world projects related to data science or machine learning in general as I do have some experience in data science domain. Reach out to me on my email
 
-- 🤔 I’m looking for help with ...
+
 ## ⚡ In my free time ...
 ◼️ Sketch (check my instagram)
 ◼️ Read Books, Novels, Articles
 ◼️ Singing (its been a while though ..)
 ◼️ Write (check my Quora)
  
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
