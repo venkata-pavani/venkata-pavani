@@ -4,6 +4,18 @@
 
 **venkata-pavani/venkata-pavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&layout=compact)](https://github.com/venkata-pavani)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
+
 - 😄 Pronouns: She,Her(s)
 
 ## 🔭 I’m currently working on ..
@@ -24,18 +36,9 @@ Any real-world projects related to data science or machine learning in general a
 ◼️ Singing (its been a while though ..)
 ◼️ Write (check my Quora)
  
-- ⚡ Fun fact: ...
+## ⚡ Fun fact: ...
 
-![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&layout=compact)](https://github.com/venkata-pavani)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
-
+I do enjoy reading Calvin and Hobbes till date 😛
 
 ### 🤝 Connect with me:
 
