@@ -37,7 +37,7 @@ Any real-world projects related to data science or machine learning in general a
 ✏️ I like to Sketch (check my instagram) <br>
 📚 I enjoy Reading Books, Novels, Articles <br>
 🎤 I do sing (its been a while though ..) <br>
-✍️ I do Write (check my Quora)
+✍️ I often like to Write (check my Quora)
  
 ## ⚡ Fun fact: ...
 
