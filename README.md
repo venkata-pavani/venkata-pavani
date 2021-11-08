@@ -49,7 +49,7 @@ Even today, I do enjoy reading Calvin and Hobbes 😛
 <a href="https://www.instagram.com/my_sketches26/"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a>
 <a href="mailto:venkatapavani2017@gmail.com"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 <a href="https://www.quora.com/profile/Pavani-N-40"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
-<a href="https://www.hackerrank.com/venkatapavani201"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>
+<a href="https://www.hackerrank.com/venkatapavani201"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="41px"/></a>
 
 <br> <br>
 
