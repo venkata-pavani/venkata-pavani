@@ -17,7 +17,7 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
 - 😄 Pronouns: She,Her(s)
-- About Me : An ambitious, independent woman with a traditional and conservative values hails from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a>
+- About Me : An ambitious, independent woman with a traditional, conservative value system hails from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a>
 
 ## 🔭 I’m currently working on ..
 
