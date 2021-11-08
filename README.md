@@ -17,6 +17,7 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
 - 😄 Pronouns: She,Her(s)
+- About Me : A traditional conservative , ambitious, independent woman who hail from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a>
 
 ## 🔭 I’m currently working on ..
 
@@ -31,14 +32,14 @@ Any real-world projects related to data science or machine learning in general a
 
 
 ## ⚡ In my free time ...
-◼️ Sketch (check my instagram) <br>
-◼️ Read Books, Novels, Articles <br>
-◼️ Singing (its been a while though ..) <br>
-◼️ Write (check my Quora)
+◼️ I like to Sketch (check my instagram) <br>
+◼️ I enjoy Reading Books, Novels, Articles <br>
+◼️ I like Singing (its been a while though ..) <br>
+◼️ I do Write (check my Quora)
  
 ## ⚡ Fun fact: ...
 
-I do enjoy reading Calvin and Hobbes till date 😛
+Eeven today, I do enjoy reading Calvin and Hobbes 😛
 
 ### 🤝 Connect with me:
 
