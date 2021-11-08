@@ -33,7 +33,7 @@ Any real-world projects related to data science or machine learning in general a
 
 ## ⚡ In my free time ...
 
-🧘 Yoga and Meditation 
+🧘 Yoga and Meditation <br>
 ✏️ I like to Sketch (check my instagram) <br>
 📚 I enjoy Reading Books, Novels, Articles <br>
 🎤 I like Singing (its been a while though ..) <br>
@@ -41,7 +41,7 @@ Any real-world projects related to data science or machine learning in general a
  
 ## ⚡ Fun fact: ...
 
-Eeven today, I do enjoy reading Calvin and Hobbes 😛
+Even today, I do enjoy reading Calvin and Hobbes 😛
 
 ### 🤝 Connect with me:
 
