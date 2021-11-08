@@ -33,10 +33,10 @@ Any real-world projects related to data science or machine learning in general a
 
 ## ⚡ In my free time ...
 
-🧘 Yoga and Meditation <br>
+🧘 I practice Yoga and Meditation <br>
 ✏️ I like to Sketch (check my instagram) <br>
 📚 I enjoy Reading Books, Novels, Articles <br>
-🎤 I like Singing (its been a while though ..) <br>
+🎤 I do sing (its been a while though ..) <br>
 ✍️ I do Write (check my Quora)
  
 ## ⚡ Fun fact: ...
