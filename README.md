@@ -34,10 +34,10 @@ Any real-world projects related to data science or machine learning in general a
 ## ⚡ In my free time ...
 
 🧘 I practice Yoga and Meditation <br>
-✏️ I like to Sketch (check my instagram) <br>
+✏️ I like to Sketch (check my <a href="https://www.instagram.com/my_sketches26/" target="_blank" rel="noopener noreferrer">instagram</a>) <br>
 📚 I enjoy Reading Books, Novels, Articles <br>
 🎤 I do sing (its been a while though ..) <br>
-✍️ I often like to Write (check my Quora)
+✍️ I often like to Write (check my <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener noreferrer">Quora</a>)
  
 ## ⚡ Fun fact: ...
 
