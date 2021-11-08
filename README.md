@@ -51,7 +51,7 @@ Even today, I do enjoy reading Calvin and Hobbes 😛
 <a href="https://www.quora.com/profile/Pavani-N-40"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
 <a href="https://www.hackerrank.com/venkatapavani201"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>
 
-
+<br> <br>
 
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
