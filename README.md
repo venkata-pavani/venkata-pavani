@@ -21,9 +21,9 @@
 
 ## 🔭 I’m currently working on ..
 
-◼️ Building solutions to complex business problems and enable organizations to meet their end-users requirements through data driven decision making. <br>
-◼️ Implementing architectures for analytical processing , ad-hoc query reporting and data mining. <br>
-◼️ Technically driven in processing large scale problems and delivering it to the end users in a most-presentable format through dashboards and reports 
+◼️ Curating solutions to complex business problems. <br>
+◼️ Implementing BI architectures for data driven organizations. <br>
+◼️ Multi-skilled developer in data science world
 
 
 ## 👯 I’m looking to collaborate on ...
