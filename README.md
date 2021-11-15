@@ -22,7 +22,7 @@
 ## 🔭 I’m currently working on ..
 
 ◼️ Curating solutions to complex business problems. <br>
-◼️ Implementing BI architectures for data driven organizations. <br>
+◼️ Strategize BI architectures for data driven organizations. <br>
 ◼️ Multi-skilled developer bringing innovative solutions to the customer driven organizations
 
 
