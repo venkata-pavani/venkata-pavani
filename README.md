@@ -28,7 +28,7 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-Any real-world projects related to data science or machine learning in general as I do have some experience in data science domain. Reach out to me on my email
+Any real-world projects related to data science or machine learning in general. Reach out to me on my email
 
 
 ## ⚡ In my free time ...
