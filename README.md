@@ -39,9 +39,9 @@ Any real-world projects related to data science or machine learning in general a
 🎤 I do sing (its been a while though ..) <br>
 ✍️ I often enjoy Writing (check my <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener noreferrer">Quora</a>)
  
--- ⚡ Fun fact: ...
+<!-- ⚡ Fun fact: ...
 
--- I like reading Calvin and Hobbes 😛
+-- I like reading Calvin and Hobbes 😛 -->
 
 ### 🤝 Connect with me:
 
