@@ -23,7 +23,7 @@
 
 ◼️ Curating solutions to complex business problems. <br>
 ◼️ Implementing BI architectures for data driven organizations. <br>
-◼️ Multi-skilled developer in data science world
+◼️ Multi-skilled developer bringing innovative solutions to the customer driven organizations
 
 
 ## 👯 I’m looking to collaborate on ...
