@@ -45,7 +45,7 @@ Any real-world projects related to data science or machine learning in general a
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank" rel="noopener noreferrer"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
+<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
 <a href="https://www.instagram.com/my_sketches26/" target="_blank" rel="noopener"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a>
 <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
