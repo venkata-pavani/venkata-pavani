@@ -17,7 +17,7 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
 - 😄 Pronouns: She,Her(s)
-- ✨ About Me : A technology enthusiast from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a> and currently living in <a href = "https://en.wikipedia.org/wiki/Wichita,_Kansas">USA</a>
+- ✨ About Me : A technology enthusiast from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a> and currently working in <a href = "https://en.wikipedia.org/wiki/Wichita,_Kansas">USA</a>
 
 ## 🔭 I’m currently working on ..
 
