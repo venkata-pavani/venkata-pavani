@@ -45,30 +45,29 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
+<!--<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
 <!--<a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a> -->
 <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
-<a href="https://www.hackerrank.com/venkatapavani201" target="_blank" rel="noopener"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>
+<a href="https://www.hackerrank.com/venkatapavani201" target="_blank" rel="noopener"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>-->
 
 <br> <br>
 
-<a href="https://www.linkedin.com/in/kris-ograbek-nlp/">
+<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://kris-ograbek-nlp.medium.com/">
-	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://www.quora.com/profile/Pavani-N-40/">
+	<img src="https://img.shields.io/badge/-QUORA-red?style=for-the-badge&logo=quora&logoColor=white" /> -->
 </a>
-<a href="https://stackoverflow.com/users/15191870/krisograbek/">
-	<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+
 </a>
 <a href="https://github.com/krisograbek">
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/krzysztof_ograb1">
+<a href="https://www.hackerrank.com/venkatapavani201">
 	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-<a href="https://www.kaggle.com/ograbekk">
+<a href="https://www.kaggle.com/pavani2018">
 	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 
