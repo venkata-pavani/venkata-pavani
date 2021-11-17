@@ -35,7 +35,7 @@ Any real-world projects related to data science or machine learning in general. 
 
 🧘 I practice Yoga and Meditation <br>
 ✏️ I like to Sketch (check my <a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener noreferrer">Instagram</a>) <br>
-📚 I enjoy Reading Books, Novels, Articles <br>
+📚 I enjoy Reading Books, Novels, Articles <br> (check my <a href="https://www.goodreads.com/user/show/66469057-pavani-nvl" target="_blank" rel="noopener noreferrer">GoodReads Profile</a>) <br>
 🎤 I do sing (its been a while though ..) <br>
 ✍️ I often enjoy Writing (check my <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener noreferrer">Quora</a>)
  
@@ -46,7 +46,7 @@ Any real-world projects related to data science or machine learning in general. 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
-<a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a>
+<!--<a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a> -->
 <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 <a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
 <a href="https://www.hackerrank.com/venkatapavani201" target="_blank" rel="noopener"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>
