@@ -30,6 +30,18 @@
 
 Any real-world projects related to data science or machine learning in general. Reach out to me on my email
 
+### Languages and Tools:
+
+[<img align="left" alt="Azure" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=JLwUhYbC&id=67F960221BD6EAF1C5FB40F139CB6442F3B6EFEE&thid=OIP.JLwUhYbCyukIN_iynb_LJAHaFx&mediaurl=https://getfishtank.ca/-/media/GetFishtank/azure-logo.png?h=967&la=en&w=1240&hash=E64D27F8AA8BD38B147FF1B6E7EFA0F8&cdnurl=https://th.bing.com/th/id/R.24bc148586c2cae90837f8b29dbfcb24?rik=7u%2b280JkyznxQA&pid=ImgRaw&r=0&exph=967&expw=1240&q=azure+png&simid=608045834592199217&form=IRPRST&ck=7D679F210595D27D6548E51B19C9557A&selectedindex=9&adlt=demote&shtp=GetUrl&shid=8d1f7976-2f24-4823-b2f6-eccb0976eed2&shtk=U2l0ZWNvcmUgOSBVcGdyYWRlIHwgRmlzaHRhbmsgQ29uc3VsdGluZw%3D%3D&shdk=Rm91bmQgb24gQmluZyBmcm9tIGdldGZpc2h0YW5rLmNh&shhk=Pqnbff%2B7TBAfsIAfkpL6qjq6152nHpwf2QGQxf0gjzs%3D&shth=OIP.JLwUhYbCyukIN_iynb_LJAHaFx" />][R]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Hugo" width="26px" src="https://camo.githubusercontent.com/3da72386ebb1b378d28f0a7206cb3263fa0ed29448119c6f75fa1ab03aa274ee/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f732d6875676f2e737667" />][hugo]
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
 
 ## ⚡ In my free time ...
 
