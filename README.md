@@ -28,8 +28,7 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-👀 I’m interested in Business Intelligence, Machine Learning, Data Science projects in general. Reach out to me on my email 
-<a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
+👀 I’m interested in Business Intelligence, Machine Learning, Data Science projects in general. Reach out to me on my email  <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
 
 
 ## ⚡ In my free time ...
