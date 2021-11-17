@@ -53,5 +53,24 @@
 
 <br> <br>
 
+<a href="https://www.linkedin.com/in/kris-ograbek-nlp/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kris-ograbek-nlp.medium.com/">
+	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/15191870/krisograbek/">
+	<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://github.com/krisograbek">
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/krzysztof_ograb1">
+	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/ograbekk">
+	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
