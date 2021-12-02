@@ -24,7 +24,7 @@
 
 ◼️ Curating solutions to complex business problems. <br>
 ◼️ Strategize BI architectures for data driven organizations. <br>
-◼️ Working innovative data-driven solutions to the customer driven organizations
+◼️ Working on innovative data-driven solutions to the customer driven organizations
 
 
 ## 👯 I’m looking to collaborate on ...
