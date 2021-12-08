@@ -10,7 +10,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
+[![Pavani's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&layout=compact)](https://github.com/venkata-pavani)
 
