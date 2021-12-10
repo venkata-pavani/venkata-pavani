@@ -16,6 +16,14 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
+<a href="https://github.com/venkata-pavani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-pavani&theme=github_dark" alt="Pavani's GitHub Stats" height="230"/>
+</a>
+
+<a href="https://github.com/venkata-pavani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&theme=github_dark" height="230"/>
+</a>
+
 - 😄 Pronouns: She,Her(s)
 - ✨ About Me : A technology enthusiast from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a> and currently working in <a href = "https://en.wikipedia.org/wiki/Wichita,_Kansas">USA</a>
 - 🌱 Learning is my passion. Learning how to Learn is the most important skil
