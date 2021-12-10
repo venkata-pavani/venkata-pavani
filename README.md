@@ -10,8 +10,6 @@
 
 ## 📈 GitHub Stats 
 
-[![Pavani's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)](https://github.com/venkata-pavani)
-
 <a href="https://github.com/venkata-pavani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-pavani&theme=github_dark" alt="Pavani's GitHub Stats" height="230"/>
 </a>
