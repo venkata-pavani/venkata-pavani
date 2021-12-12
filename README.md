@@ -22,9 +22,9 @@
 
 
 
-😄 Pronouns: She,Her(s)
-✨ About Me : A technology enthusiast from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a> and currently working in <a href = "https://en.wikipedia.org/wiki/Wichita,_Kansas">USA</a>
-🌱 Learning is my passion. Learning how to Learn is the most important skil
+😄 Pronouns: She,Her(s) <br>
+✨ About Me : A technology enthusiast from southern part of <a href = "https://en.wikipedia.org/wiki/Visakhapatnam">India</a> and currently working in <a href = "https://en.wikipedia.org/wiki/Wichita,_Kansas">USA</a> <br>
+🌱 Learning is my passion. Learning how to Learn is the most important skill
 
 ## 🔭 I’m currently working on ..
 
