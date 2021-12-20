@@ -20,6 +20,8 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
+![](https://komarev.com/ghpvc/?username=venkata-pavani&label=PROFILE+VIEWS)
+
 
 
 😄 Pronouns: She,Her(s) <br>
