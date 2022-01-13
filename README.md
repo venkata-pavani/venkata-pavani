@@ -9,6 +9,15 @@
 ![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
 
 ## 📈 GitHub Stats 
+# [GitHub Stats Visualization](https://github.com/venkata-pavani/github-stats)
+
+<a href="https://github.com/venkata-pavani/github-stats">
+
+![](https://github.com/venkata-pavani/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/venkata-pavani/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
 
 <a href="https://github.com/venkata-pavani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-pavani&theme=github_dark" alt="Pavani's GitHub Stats" height="230"/>
