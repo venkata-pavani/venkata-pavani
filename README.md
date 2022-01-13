@@ -20,12 +20,7 @@
 
 
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
-    <img width="400px" alt="Pavani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/venkata-pavani?theme=tokyonight" />  
-  </a>
-
-</p>
+![Pavani's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)
 
 <!--
 <a href="https://github.com/venkata-pavani">
