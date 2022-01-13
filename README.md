@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/12963112/137175451-ae3ac72b-7eee-4132-ae15-514b2410c8b2.png)
 
 ## 📈 GitHub Stats 
-# [GitHub Stats Visualization](https://github.com/venkata-pavani/github-stats)
+### [GitHub Stats Visualization](https://github.com/venkata-pavani/github-stats)
 
 <a href="https://github.com/venkata-pavani/github-stats">
 
@@ -18,7 +18,7 @@
 
 </a>
 
-
+<!--
 <a href="https://github.com/venkata-pavani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-pavani&theme=github_dark" alt="Pavani's GitHub Stats" height="230"/>
 </a>
@@ -26,6 +26,7 @@
 <a href="https://github.com/venkata-pavani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-pavani&theme=github_dark" height="230"/>
 </a>
+-->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
 
