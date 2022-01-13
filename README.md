@@ -21,7 +21,6 @@
 
 
 ![Pavani's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani)
-![Pavani's github stats](https://github-readme-stats.vercel.app/api?username=venkata-pavani&hide=contribs,prs)
 
 <!--
 <a href="https://github.com/venkata-pavani">
