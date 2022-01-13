@@ -18,6 +18,30 @@
 
 </a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkata-pavani/awesome-github-stats/master/docs/banner.png"/>
+</p>
+<p align="center">
+  Get an accurate data from your contributions and transform into a card to show at your GitHub profile README
+  <br>
+  <a href="https://awesome-github-stats.azurewebsites.net/" target="_blank">View Demo</a>
+<hr>  
+</p>
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Pavani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/venkata-pavani?theme=tokyonight" />  
+  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Pavani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ralmsdeveloper?theme=github&cardType=octocat" />
+  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Pavani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?theme=dracula&cardType=level-alternate" />
+  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Pavani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/carloscds?theme=github-dark&cardType=github" />
+  </a>
+</p>
+
 <!--
 <a href="https://github.com/venkata-pavani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-pavani&theme=github_dark" alt="Pavani's GitHub Stats" height="230"/>
