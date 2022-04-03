@@ -65,19 +65,21 @@
 <a href="https://www.linkedin.com/in/pavani-nrusimhadevara/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.quora.com/profile/Pavani-N-40/">
-	<img src="https://img.shields.io/badge/-QUORA-red?style=for-the-badge&logo=quora&logoColor=white" /> 
-</a>
+
 
 
 <a href="https://github.com/venkata-pavani">
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.hackerrank.com/venkatapavani201">
 	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/pavani2018">
 	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+<a href="https://www.quora.com/profile/Pavani-N-40/">
+	<img src="https://img.shields.io/badge/-QUORA-red?style=for-the-badge&logo=quora&logoColor=white" /> 
 </a>
 
 
