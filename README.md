@@ -28,7 +28,7 @@
 
 
 😄 Pronouns: She,Her(s) <br>
-✨ About Me : Business Intelligence | Data Engineer deal with complex real messy world data and self motivated to learn new technologies to try new solutions <br>
+✨ About Me : Business Intelligence | Data Engineer dealt with complex messy data ,self motivated to learn new technologies and try new solutions <br>
 🌱 Learning is my passion. Learning how to Learn is the most important skill
 
 ## 🔭 I’m currently working on ..
