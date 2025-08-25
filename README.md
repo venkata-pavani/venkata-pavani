@@ -26,33 +26,32 @@
 
 <!--[Visitors](https://komarev.com/ghpvc/?username=venkata-pavani&label=Profile+Views)-->
 
+![Profile Views](https://komarev.com/ghpvc/?username=venkata-pavani&label=Profile+Views&color=blue&style=flat)
+
+
 
 😄 Pronouns: She,Her(s) <br>
-✨ About Me : Business Intelligence | Data Engineer dealt with complex messy data ,self motivated to learn new technologies and try new solutions <br>
+✨ About Me : Dealing with complex messy data ,self motivated to learn new technologies and try new solutions <br>
 🌱 Learning is my passion. Learning how to Learn is the most important skill
 
 ## 🔭 I’m currently working on ..
 
 ◼️ Curating solutions to complex business problems. <br>
-◼️ Strategize BI architectures for data driven organizations. <br>
 ◼️ Working on innovative data-driven solutions to the customer driven organizations
 
 
 ## 👯 I’m looking to collaborate on ...
 
-👀 I’m interested to collaborate in Business Intelligence, Machine Learning, Data Science projects in general. Reach out to me on my <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener">email</a>
+👀 I’m interested to collaborate in Software/Data Engineering projects in general. Reach out to me on my <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener">email</a>
 
 
 ## ⚡ In my free time ...
 
-🧘 I practice Yoga and Meditation <br>
+🧘 I volunteer,mentor and contribute to various activities/causes including Toastmasters 
 ✏️ I like to **Sketch** (check out my <a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener noreferrer">Instagram</a>) <br>
 📚 I enjoy **Reading** (check out my <a href="https://www.goodreads.com/user/show/66469057-pavani-nvl" target="_blank" rel="noopener noreferrer"> GoodReads Profile</a>) <br>
 🎤 I do sing (its been a while though ..) <br>
  
-<!-- ⚡ Fun fact: ...
-
--- I like reading Calvin and Hobbes 😛 -->
 
 ### 🤝 Connect with me:
 
