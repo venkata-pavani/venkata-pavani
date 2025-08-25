@@ -22,10 +22,6 @@
 </a>
 -->
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=venkata-pavani.venkata-pavani)](https://github.com/venkata-pavani/)
-
-<!--[Visitors](https://komarev.com/ghpvc/?username=venkata-pavani&label=Profile+Views)-->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=venkata-pavani&label=Profile+Views&color=blue&style=flat)
 
 
