@@ -59,7 +59,6 @@
 <!--<a href="https://www.linkedin.com/in/pavani-nrusimhadevara/" target="_blank"><img align="left" src="linkedin.png" alt="Pavani | LinkedIn" width="31px"/></a>
 <a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener"><img align="left" src="insta.png" alt="Pavani | Instagram" width="31px"/></a> 
 <a href="mailto:venkatapavani2017@gmail.com" target="_blank" rel="noopener"><img align="left" src="gmail.png" alt="Pavani | Gmail" width="31px"/></a>
-<a href="https://www.quora.com/profile/Pavani-N-40" target="_blank" rel="noopener"><img align="left" src="quora.png" alt="Pavani | Quora" width="31px"/></a>
 <a href="https://www.hackerrank.com/venkatapavani201" target="_blank" rel="noopener"><img align="left" src="hckerrank.png" alt="Pavani | HackerRank" width="31px"/></a>-->
 
 <a href="https://www.linkedin.com/in/pavani-nrusimhadevara/">
@@ -78,9 +77,7 @@
 <a href="https://www.kaggle.com/pavani2018">
 	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
-<a href="https://www.quora.com/profile/Pavani-N-40/">
-	<img src="https://img.shields.io/badge/-QUORA-red?style=for-the-badge&logo=quora&logoColor=white" /> 
-</a>
+
 
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
