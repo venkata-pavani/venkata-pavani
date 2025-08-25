@@ -47,7 +47,7 @@
 
 ## ⚡ In my free time ...
 
-🧘 I volunteer,mentor and contribute to various activities/causes including Toastmasters 
+🧘 I volunteer,mentor and contribute to various activities/causes including Toastmasters <br>
 ✏️ I like to **Sketch** (check out my <a href="https://www.instagram.com/sketches_by_pavani/" target="_blank" rel="noopener noreferrer">Instagram</a>) <br>
 📚 I enjoy **Reading** (check out my <a href="https://www.goodreads.com/user/show/66469057-pavani-nvl" target="_blank" rel="noopener noreferrer"> GoodReads Profile</a>) <br>
 🎤 I do sing (its been a while though ..) <br>
